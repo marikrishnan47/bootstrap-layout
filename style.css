@@ -1,0 +1,189 @@
+.header{
+	background-color:gold;
+	
+}
+.logo{
+	background-color:#000;
+	height:10vh;
+}
+.navbar{
+	background-color:#000;
+	height:10vh;
+}
+.head-btn{
+	background-color:#000;
+	height:10vh;
+}
+.banner{
+	background-color:purple;
+	
+}
+.main{
+	background-color:#000;
+	height:50vh;
+}
+.company{
+	background-color:gold;
+	
+}
+.com{
+	background-color:#000;
+	height:10vh;
+}
+.about{
+	position:relative;
+}
+.about::after{
+	content:"";
+	top:0;
+	left:0;
+	position:absolute;
+	transform:skewY(-3deg);
+	height:100%;
+	width:100%;
+	background-color:purple;
+	z-index:-1;
+}
+.abo{
+	background-color:#000;
+	height:30vh;
+	
+}
+.ab-1{
+	background-color:gold;
+	height:10vh;
+}
+.box{
+	background-color:purple;
+
+}
+.box-1{
+	background-color:#000;
+	height:20vh;
+}
+.content{
+	background-color:gold;
+	
+}
+.cont-1{
+	background-color:#000;
+	height:20vh;
+}
+.cont-2{
+	background-color:#000;
+	height:50vh;
+}
+.services{
+	position:relative;
+	
+}
+.services::after{
+	content:"";
+	top:0;
+	left:0;
+	position:absolute;
+	transform:skewY(-3deg);
+	height:100%;
+	width:100%;
+	background-color:purple;
+	z-index:-1;
+}
+.ser{
+	background-color:#000;
+	height:25vh;
+}
+.protofolio{
+	background-color:gold;
+	
+}
+.port{
+	background-color:#000;
+	height:25vh;
+}
+.test{
+	background-color:purple;
+	
+}
+.test-1{
+	background-color:#000;
+	height:40vh;
+}
+.piricing{
+   position:relative;
+	
+
+}
+.piricing::after{
+	content:"";
+	top:0;
+	left:0;
+	position:absolute;
+	transform:skewY(-3deg);
+	height:100%;
+	width:100%;
+	background-color:purple;
+	z-index:-1
+}
+.pri-1{
+	background-color:#000;
+	height:70vh;
+}
+.question{
+	background-color:gold;
+
+}
+.ques{
+	background-color:#000;
+	height:10vh;
+}
+.team{
+  position:relative;
+	
+}
+.team::after{
+	content:"";
+	top:0;
+	left:0;
+	position:absolute;
+	transform:skewY(-3deg);
+	height:100%;
+	width:100%;
+	background-color:purple;
+	z-index:-1
+}
+.team-1{
+	background-color:#000;
+	height:40vh;
+}
+.contact{
+	background-color:gold;
+	
+}
+.table{
+	background-color:#000;
+	height:70vh;
+}
+.table-1{
+	background-color:#000;
+	height:30vh;
+}
+.table-2{
+	background-color:#000;
+	height:40vh;
+}
+.footer{
+	background-color:purple;
+	
+}
+.foot-1{
+	background-color:#000;
+	height:40vh;
+}
+.end{
+	background-color:gold;
+
+}
+.end-1{
+	background-color:#000;
+	height:10vh;
+}
